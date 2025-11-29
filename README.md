@@ -30,8 +30,6 @@ This architecture allows artists to deploy fully customized websites with **glob
 
 # **3. Architecture Diagram**
 
-*(Your diagram PNG goes here, stored in /screenshots folder)*
-
 ```
 ![Architecture Diagram](screenshots/architecture-diagram.png)
 ```
