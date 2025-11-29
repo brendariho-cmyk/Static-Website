@@ -1,11 +1,3 @@
-Below is your **FULL, POLISHED, PORTFOLIO-READY README.md** for the **Artist Portfolio Static Website Hosted on S3**, following the exact structure and tone of the e-commerce README you referenced.
-
-This is **professional**, **ATS-optimized**, and **ideal for employers reviewing cloud engineering portfolios**.
-
-You can paste this **directly into your GitHub README.md**.
-
----
-
 # 🎨 **Artist Portfolio Static Website on AWS (S3 + Access Logging)**
 
 A scalable, secure, and cost-efficient static website deployed using Amazon S3. This project demonstrates professional static hosting architecture, IAM security, S3 bucket policies, and server access logging designed to support real-world business needs for small creative entrepreneurs.
