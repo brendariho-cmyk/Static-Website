@@ -31,7 +31,7 @@ This architecture allows artists to deploy fully customized websites with **glob
 # **3. Architecture Diagram**
 
 ```
-![Architecture Diagram](S3 Static Website Architecture.png)
+![Architecture Diagram](Architecture%20Diagram.png)
 ```
 
 ---
