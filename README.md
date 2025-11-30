@@ -31,7 +31,7 @@ This architecture allows artists to deploy fully customized websites with **glob
 # **3. Architecture Diagram**
 
 ```
-![Architecture Diagram](https://github.com/brendariho-cmyk/Secure-Static-Website/blob/main/Architecture%20Diagram/S3%20Static%20Website%20Architecture.png)
+![Architecture Diagram](S3 Static Website Architecture.png)
 ```
 
 ---
