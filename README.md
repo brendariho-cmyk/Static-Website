@@ -31,7 +31,7 @@ This architecture allows artists to deploy fully customized websites with **glob
 # **3. Architecture Diagram**
 
 ```
-![Architecture Diagram](architecture-diagram/diagram.png)
+![Architecture Diagram](./architecture-diagram/diagram.png)
 ```
 
 ---
